@@ -1,5 +1,5 @@
 /*This project fulfills the reqs for "Business Outfitted Bob" project in Codecademy
-This file is to be used in conjuncition with index.html, GameScene.js, EndScene.js, and index.html*/
+This file is to be used in conjuncition with GameScene.js, index.html, EndScene.js, and game.js*/
 
 
 
