@@ -1,3 +1,7 @@
+/*This project fulfills the reqs for "Business Outfitted Bob" project in Codecademy
+This file is to be used in conjuncition with StartScene.js, index.html, EndScene.js, and game.js*/
+
+
 // Add a variable to keep count of Bob's earnings
 let score = 0;
 // Add a variable to multiply money
