@@ -1,3 +1,8 @@
+/*This project fulfills the reqs for "Business Outfitted Bob" project in Codecademy
+This file is to be used in conjuncition with index.html, GameScene.js, EndScene.js, and index.html*/
+
+
+
 class StartScene extends Phaser.Scene {
   constructor() {
     super({ key: 'StartScene' })
